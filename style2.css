@@ -94,8 +94,8 @@
          animation: animação .9s 2s backwards;}
       
       
-header div {width: 500px;
-                  height: 500PX;
+header div {      width: 120px;
+                  height: 120PX;
                   margin: auto;
                   background-image: linear-gradient(90deg, #9572FC 0%,#43E7AD 50.52%, #E2D45C 100%);
                   border-radius:50%;
@@ -105,8 +105,6 @@ header div {width: 500px;
                   }
                   
 header div img {width: 100%;
-                     margin-top: 10px;
-                     margin-left: 10px;
                   border-radius: 50%;
                   display: flex;}
       
