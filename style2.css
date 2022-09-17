@@ -88,8 +88,11 @@
  header ul {display: flex;
             gap: 16px;
             margin-top: 24px ;}
- .li1 {margin: auto;
-       margin-left: 50%;}
+
+ .li1 {margin: auto;}
+ 
+ .ul1 {display: flex;
+       gap: 10%}
 
  .menuImagen {margin: auto;
        margin-top: 5px;
@@ -110,7 +113,7 @@
        width:210px;
        height: 210px;
        transition: transform .3s;
-       margin-left: 200px;
+       margin-left: 10px;
        
  }
 
