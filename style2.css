@@ -94,7 +94,8 @@
          animation: animação .9s 2s backwards;}
       
       
-header div {      width:100%;
+header div {      width: 120px;
+                  height: 120PX;
                   margin: auto;
                   background-image: linear-gradient(90deg, #9572FC 0%,#43E7AD 50.52%, #E2D45C 100%);
                   border-radius:50%;
@@ -183,7 +184,7 @@ header div:hover {transform: scale(2.1);}
 
 
 .musicalista li img {margin-top: 20px;
-              margin: 15%;
+              margin:19%;
               border-radius: 15px;}
 
 .hrB { margin: auto auto auto auto;
