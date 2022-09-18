@@ -78,6 +78,8 @@
               padding-top: 24px;
               border-radius: 8px;
            }
+
+
  
  /*header { padding: 24px;
           margin-left: 30% ;}*/
@@ -192,7 +194,8 @@ header div:hover {transform: scale(2.1);}
 
 
 .musicalista li img {margin-top: 20px;
-              margin:17%;
+              margin-left: 10%;
+              margin-right: 10%;
               border-radius: 15px;}
 
 .hrB { margin: auto auto auto auto;
