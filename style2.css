@@ -194,9 +194,10 @@ header div:hover {transform: scale(2.1);}
 
 
 .musicalista li img {margin-top: 20px;
-              margin-left: 10%;
-              margin-right: 10%;
-              border-radius: 15px;}
+              margin-left: 1;
+              margin-right: 40px;
+              border-radius: 15px;
+       gap: 10px}
 
 .hrB { margin: auto auto auto auto;
        width: 70%;
