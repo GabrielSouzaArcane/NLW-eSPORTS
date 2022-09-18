@@ -105,6 +105,7 @@ header div {      width: 120px;
                   }
                   
 header div img {width: 100%;
+
                   border-radius: 50%;
                   display: flex;}
       
@@ -115,13 +116,13 @@ header div:hover {transform: scale(2.1);}
 
  
 
- .hrA {margin-top: 32px;
+ /*.hrA {margin-top: 32px;
      margin: auto;
      margin-top: 40px;
-     width: 940px;
+     width: 80%;
      height: 5px;
      background-image: linear-gradient(90deg, #9572FC 0%,#43E7AD 50.52%, #E2D45C 100%);
-     border-radius: 10px; }
+     border-radius: 10px; }*/
 
  @keyframes animação { from {opacity:0 ;
                              transform: translateY(-30px);}               
@@ -180,12 +181,14 @@ header div:hover {transform: scale(2.1);}
 .formações img:hover {transform: scale(2.1);}
 
 .musical h2 {text-align: center;}
+
+
 .musicalista li img {margin-top: 20px;
-              margin-left:28px;
+              margin: 15%;
               border-radius: 15px;}
 
 .hrB { margin: auto auto auto auto;
-       width: 100px;
+       width: 70%;
        height: 5px;
        background-image: linear-gradient(90deg, #9572FC 0%,#43E7AD 50.52%, #E2D45C 100%);
        border-radius: 10px;}
