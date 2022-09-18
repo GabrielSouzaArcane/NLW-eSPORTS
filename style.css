@@ -153,3 +153,6 @@ button {background-image: linear-gradient(90deg, #9572FC 0%,#43E7AD 50.52%, #E2D
 
 button:hover {transform: scale(1.2);}
 
+
+audio {
+        margin-left: 20%;}
