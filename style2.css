@@ -60,9 +60,11 @@
  
  section ul {display: flex;
              gap: 16px;
-             margin-top: 24px ;}
+             margin-top: 10px ;
+             justify-content: center;}
  
- section ul li {transition: transform .3s ;}
+ section ul li {transition: transform .3s ;
+}
  
  section ul li:hover {transform: scale(2.2);}
  
@@ -194,10 +196,10 @@ header div:hover {transform: scale(2.1);}
 
 
 .musicalista li img {margin-top: 20px;
-              margin-left: ;
-              margin-right: 40px;
+              margin-left:0;
               border-radius: 15px;
-       gap: 10px}
+              gap: 10px;}
+
 
 .hrB { margin: auto auto auto auto;
        width: 70%;
